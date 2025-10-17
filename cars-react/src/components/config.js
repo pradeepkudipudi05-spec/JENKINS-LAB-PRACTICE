@@ -1,5 +1,5 @@
 const config = {
-    url: "http://localhost:2030/springbootcar"
+    url: "http://localhost:2001"
 }
 
 export default config;
